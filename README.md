@@ -5,6 +5,7 @@ Scripts for reading velocity from 2D treadmill ball using Raspberry Pi. Adapted 
 - Put these scripts on the Raspberry Pi
 - Python 2.7
 - Install: https://github.com/adafruit/Adafruit_Python_MCP4725
+- The sign (+/-) of the data may need to be adjusted, based on the positioning of the sensors, specifically the sensor on the side reading the yaw/roll.
 
 ## Scripts
 ### mouse_display_mouse0.py
